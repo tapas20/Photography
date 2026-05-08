@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useRef } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { Camera, Award, Heart, Eye, ArrowRight } from "lucide-react";
 import Link from "next/link";
 import Navigation from "@/sections/Navigation";

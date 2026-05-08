@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import { ArrowUpRight } from "lucide-react";
 import Navigation from "@/sections/Navigation";
 import Footer from "@/sections/Footer";
